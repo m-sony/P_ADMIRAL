@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySecondApplication</string>
+    <string-array name="logout">
+        <item> </item>
+        <item>Se déconnecter</item>
+    </string-array>
+</resources>
